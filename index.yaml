@@ -3,12 +3,12 @@ entries:
   mi-aplicacion:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-19T02:25:09.8974412-05:00"
+    created: "2025-02-19T02:25:17.7184854-05:00"
     description: A Helm chart for Kubernetes
-    digest: f8f74fddf0d6e8b929e1fb3ec52c1f992525ee121d518bd4d8ab840c789e08d1
+    digest: 913a2cabdf96736aa5ceac4d0becdf2e6986f98b60e4df635dcac15b0945bcb6
     name: mi-aplicacion
     type: application
     urls:
     - https://juangonzagarc.github.io/helm-charts/mi-aplicacion-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-19T02:25:09.8969232-05:00"
+generated: "2025-02-19T02:25:17.7184854-05:00"
