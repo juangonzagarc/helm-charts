@@ -12,3 +12,7 @@ service:
 ingress:
   enabled: true
   host: mi-aplicacion.dominio.com
+
+serviceAccount:
+  create: true
+  name: ""
